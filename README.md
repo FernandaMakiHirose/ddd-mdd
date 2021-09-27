@@ -179,3 +179,6 @@ For more information about this project, sse this [article](https://medium.com/@
 * Used EntityFramework
 
 <hr />
+
+<details>
+  <summary><strong>Aurora Project</strong></summary>
