@@ -169,7 +169,6 @@ For more information about this project, sse this [article](https://medium.com/@
 * Updated the project's SDK to .NET Core 3.1 version
 * Added the Swagger framework to document the API
 * Corrections to end-points
-* Published in [Azure](http://aurora-project.azurewebsites.net/swagger/index.html)
 
 **v1.0 --- 2018-06-09**
 * Create the project in .NET Core 2.0 version
