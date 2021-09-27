@@ -180,4 +180,4 @@ For more information about this project, sse this [article](https://medium.com/@
 
 <details>
   <summary><strong>Quiz</strong></summary>
-</details>
+
