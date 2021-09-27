@@ -82,6 +82,8 @@ mesmo resultado;
 normalmente Entidades, Objetos de Valor e Agregados. Os repositórios são classes que
 centralizam operações de criação, alteração e remoção de objetos.
 
+<details>
+  <summary><strong>Aurora Project</strong></summary>
 ![Aurora Project](https://repository-images.githubusercontent.com/128673011/f6ebdd80-b6da-11ea-94bb-9d141944b257)
 
 # What is Aurora project?
@@ -188,4 +190,4 @@ See the project in [Azure](http://aurora-project.azurewebsites.net/swagger/index
 
 ## About:
 The Aurora project was developed by [Alex Alves](https://www.linkedin.com/in/alexalvess/).
-
+</details>
