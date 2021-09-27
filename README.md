@@ -178,14 +178,3 @@ For more information about this project, sse this [article](https://medium.com/@
 * Used the FluentValidation library
 * Configured the connection to MySql database
 * Used EntityFramework
-
-## Why Aurora?
-The name Aurora came from the natural event called Aurora Borealis. It is a scientific event described by the interaction between the earth's magnetic layer and energized particles from the solar wind.
-
-A curiosity about such an event is that what we see in photographs is not always the same image that is seen live.
-
-For more information, look this [link](https://www.hipercultura.com/fenomenos-naturais/).
-
-## We're online!
-See the project in [Azure](http://aurora-project.azurewebsites.net/swagger/index.html).
-</details>
