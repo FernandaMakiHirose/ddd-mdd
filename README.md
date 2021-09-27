@@ -179,8 +179,6 @@ For more information about this project, sse this [article](https://medium.com/@
 * Configured the connection to MySql database
 * Used EntityFramework
 
-<summary><strong>Auror</strong></summary>
-
 ### Quiz
 <details>
   <summary><strong>Guia</strong></summary>
