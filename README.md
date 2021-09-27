@@ -178,6 +178,7 @@ For more information about this project, sse this [article](https://medium.com/@
 * Configured the connection to MySql database
 * Used EntityFramework
 
+  
 <details>
   <summary><strong>Quiz</strong></summary>
 
