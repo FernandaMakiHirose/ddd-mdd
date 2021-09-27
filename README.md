@@ -84,6 +84,7 @@ centralizam operações de criação, alteração e remoção de objetos.
 
 <details>
   <summary><strong>Aurora Project</strong></summary>
+  
 ![Aurora Project](https://repository-images.githubusercontent.com/128673011/f6ebdd80-b6da-11ea-94bb-9d141944b257)
 
 # What is Aurora project?
