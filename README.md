@@ -5,6 +5,7 @@
 
 ## Um pouco de história
 Ele veio do título do livro escrito por Eric Evans, dono da DomainLanguage, uma empresa especializada em treinamento e consultoria para desenvolvimento de software. O livro de Evans é um grande catálogo de Padrões, baseados em experiências do autor ao longo de mais de 20 anos desenvolvendo software utilizando técnicas de Orientação a Objetos.
+
 ![imgdomain](https://user-images.githubusercontent.com/72028645/134926589-87b1cd17-c693-4e3b-acd6-2a907ff38481.jpg)
 
 ## Principais conceitos do DDD
