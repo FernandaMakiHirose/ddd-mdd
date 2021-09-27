@@ -82,6 +82,34 @@ mesmo resultado;
 normalmente Entidades, Objetos de Valor e Agregados. Os repositórios são classes que
 centralizam operações de criação, alteração e remoção de objetos.
 
+## Quiz
+### O que signifca DDD?
+Domain-Driven Design.
+
+### Qual a maior vantagem de se usar DDD?
+Aproximar a linguagem de negócio da linguagem técnica.
+
+### Quais os principais conceitos do DDD?
+Alinhamento do código com o negócio , Favorecer a reutilização , Minimo de acoplamento, Independência da Tecnologia.
+
+### É possível afirmar que o Model de um projeto é:
+É a Descrição de alguns aspectos do domínio. Na prática, é a modelagem dos objetos de negócio.
+
+### O Modelo De Domínio (MDD) é uma representação fiel de:
+São representações das entidades e nomenclaturas do negócio.
+
+### É um principal conceito do DDD:
+Alinhamento do código com o negócio.
+
+### O que significa MDD?
+Modelo de Domínio.
+
+### Dentro da metodologia do DDD, quem define os Modelos de Domínio (MDD)?
+Especialistas de negócio em conjunto desenvolvedores arquitetos de software.
+
+### O que é incorreto sobre utilizar DDD em um projeto
+Cria softwares mais rapidos a prova de falhas.
+
 ## Projeto Aurora
 <details>
   <summary><strong>Guia</strong></summary>
@@ -178,7 +206,3 @@ For more information about this project, sse this [article](https://medium.com/@
 * Used the FluentValidation library
 * Configured the connection to MySql database
 * Used EntityFramework
-
-### Quiz
-<details>
-  <summary><strong>Guia</strong></summary>
