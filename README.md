@@ -83,11 +83,6 @@ normalmente Entidades, Objetos de Valor e Agregados. Os repositórios são class
 centralizam operações de criação, alteração e remoção de objetos.
 
 <details>
-  <summary><strong>Quiz</strong></summary>
-### O que signifca DDD?
-Domain-Driven Design.
-
-<details>
   <summary><strong>Aurora Project</strong></summary>
   
 ![Aurora Project](https://repository-images.githubusercontent.com/128673011/f6ebdd80-b6da-11ea-94bb-9d141944b257)
@@ -183,4 +178,4 @@ For more information about this project, sse this [article](https://medium.com/@
 * Configured the connection to MySql database
 * Used EntityFramework
 
- 
+<hr />
