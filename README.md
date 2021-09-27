@@ -1,3 +1,7 @@
+# DDD e MDD
+## Requisitos
+- C#
+- Visual Studio
 
 ## Domain-Driven Design
 - "É uma abordagem de design de software disciplinada que reúne um conjunto de conceitos, técnicas e princípios para construção de softwares baseados em um modelo de domínio".
