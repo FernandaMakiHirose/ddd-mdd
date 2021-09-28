@@ -3,6 +3,9 @@
 - C#
 - Visual Studio
 
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
+
 ## Domain-Driven Design
 - "É uma abordagem de design de software disciplinada que reúne um conjunto de conceitos, técnicas e princípios para construção de softwares baseados em um modelo de domínio".
 - “Domínio é todo e qualquer conhecimento utilizado em uma determinada área”.
